@@ -1,0 +1,13 @@
+# Local source exports and temporary conversion tools
+/output/
+/tmp/
+
+# Local tooling and credentials
+/.netlify/
+/node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
