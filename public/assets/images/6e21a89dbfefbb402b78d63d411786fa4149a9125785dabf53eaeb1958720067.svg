@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 540" role="img" aria-labelledby="g34title g34desc">
+<title id="g34title">34번 정사각형 종이 접기</title>
+<desc id="g34desc">A는 왼쪽 아래, B는 오른쪽 아래, C는 오른쪽 위, D는 왼쪽 위 꼭짓점입니다. M과 N은 각각 AB와 CD의 중점이며 접힌 점 A′는 MN 위에 있습니다. </desc>
+<defs>
+<linearGradient id="g34fold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d1d7db"/><stop offset="1" stop-color="#f4f6f7"/></linearGradient>
+<marker id="g34arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#75818a"/></marker>
+<marker id="g34axisArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#126f69"/></marker>
+</defs>
+<g fill="none" stroke="#293d4a" stroke-width="2.4" stroke-linejoin="round">
+<path d="M100 232.153903V80H460V440"/>
+<path d="M100 232.153903V440H460 M280 80V440" stroke="#75818a" stroke-dasharray="8 7"/>
+<path d="M100 232.153903L280 128.230855L460 440Z" fill="url(#g34fold)"/>
+<path d="M100 440Q120 248 272 137" stroke="#75818a" stroke-width="1.7" stroke-dasharray="7 6" marker-end="url(#g34arrow)"/>
+<path d="M188 70V90 M194 70V90 M368 70V90 M374 70V90 M188 430V450 M194 430V450" stroke-width="1.4"/>
+</g>
+<g font-family="'Times New Roman',serif" font-size="29" fill="#192b36">
+<text x="76" y="474">A</text><text x="472" y="470">B</text><text x="472" y="80">C</text><text x="74" y="77">D</text>
+<text x="280" y="476" text-anchor="middle">M</text><text x="280" y="62" text-anchor="middle">N</text><text x="300" y="127">A′</text>
+</g>
+<g id="g34axes" style="display:none" fill="#126f69" font-family="'Times New Roman',serif" font-size="26">
+<g fill="none" stroke="#126f69" stroke-width="2" marker-end="url(#g34axisArrow)"><path d="M48 440H564"/><path d="M100 492V22"/></g>
+<path d="M280 435V445 M460 435V445 M95 260H105 M95 80H105" fill="none" stroke="#126f69" stroke-width="2"/>
+<text x="578" y="449" font-style="italic">x</text><text x="81" y="22" font-style="italic">y</text>
+<text x="109" y="468">0</text><text x="280" y="511" text-anchor="middle">1</text><text x="460" y="511" text-anchor="middle">2</text><text x="78" y="269" text-anchor="end">1</text><text x="78" y="104" text-anchor="end">2</text>
+</g>
+</svg>

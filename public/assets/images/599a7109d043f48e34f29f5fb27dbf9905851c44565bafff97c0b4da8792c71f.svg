@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="g73svg" viewBox="50 80 680 440" role="img" aria-labelledby="g73title" font-family="Times New Roman,serif">
+<title id="g73title">73번: 직사각형 안의 경로 PQRS, 아래쪽과 오른쪽에 대칭점 판서 공간</title>
+<path d="M140 160H410V340H140Z" fill="none" stroke="#294754" stroke-width="2.8"/>
+<path id="g73PQ" d="M140 250L288.5 340" fill="none" stroke="#126f69" stroke-width="3.5"/>
+<path id="g73QR" d="M288.5 340L410 268" fill="none" stroke="#b76b25" stroke-width="3.5"/>
+<path id="g73RS" d="M410 268L230 160" fill="none" stroke="#6a63a6" stroke-width="3.5"/>
+<g font-size="29" fill="#294754"><text x="113" y="144">A</text><text x="112" y="370">B</text><text x="421" y="370">C</text><text x="421" y="144">D</text><text x="109" y="258">P</text><text x="220" y="144">S</text><text id="g73Qlabel" x="288.5" y="376" text-anchor="middle">Q</text><text id="g73Rlabel" x="434" y="274">R</text></g>
+<g fill="#294754"><circle cx="140" cy="250" r="5"/><circle cx="230" cy="160" r="5"/></g>
+<circle id="g73Q" cx="288.5" cy="340" r="11" fill="#126f69" stroke="white" stroke-width="2" style="cursor:grab;touch-action:none"/>
+<circle id="g73R" cx="410" cy="268" r="11" fill="#b76b25" stroke="white" stroke-width="2" style="cursor:grab;touch-action:none"/>
+</svg>
